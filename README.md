@@ -1,2 +1,2 @@
-# kraft-QR
+# kraftWebDashboardQR
 kraft app download qr html
